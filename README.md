@@ -1,2 +1,2 @@
 # e-exam-pagination
-PHP questions and answers form database with pagination
+Questions and answers form database with pagination using PHP.
