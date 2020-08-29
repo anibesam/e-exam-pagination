@@ -1,4 +1,4 @@
 <?php
-$con = mysqli_connect("localhost","root","#86MyLadyOhidevirus89","ksu_cbt");
+$con = mysqli_connect("localhost","root","loot","mycbt");
 
 ?>
