@@ -1,8 +1,8 @@
 <?php
 $server='localhost';
 $uname='root';
-$password='#86MyLadyOhidevirus89';
-$dbase='ksu_cbt';
+$password='2344454';
+$dbase='my_cbt';
 $con = new mysqli($server,$uname,$password,$dbase);
 //Eror Handler
 if($con->connect_error){
